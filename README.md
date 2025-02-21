@@ -9,5 +9,5 @@
 ### 💡 Projects with My Work
 
 - [**RedNote Video Downloader**](https://rednotevideodownload.com/): Download RedNote Video For Free
-- [**小报童返利导航**](www.11228888.xyz): 从导航站购买小报童，可获得10%-30%返利
+- [**小报童返利导航**](https://www.11228888.xyz): 从导航站购买小报童，可获得10%-30%返利
 
